@@ -1,1 +1,1 @@
-# MIT_opencourse_6.0002
+### MIT_opencourse_6.0002
