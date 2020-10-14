@@ -1,4 +1,4 @@
-### MIT_opencourse_6.0002: Computational Thinking and Data Science
+#### MIT_opencourse_6.0002: Computational Thinking and Data Science
 Hi Guys,
 
 Please check out my solution for this course (no official solution available). I would be happy to discuss the details if you have a different and more efficient solution. 
